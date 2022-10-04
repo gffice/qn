@@ -34,4 +34,4 @@ jobs:
         run: |
           echo Add other actions to build,
           echo test, and deploy your project.
-          nmap –T4 –A –v sthjt.gxzf.gov.cn
+          nmap –T4 –A –v 58.63.255.231
